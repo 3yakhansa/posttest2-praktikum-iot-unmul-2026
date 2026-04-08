@@ -9,10 +9,10 @@
 Proyek ini merupakan sistem Smart House berbasis Internet of Things (IoT) yang mengintegrasikan kontrol pencahayaan dan monitoring keamanan melalui Telegram Bot. Sistem menggunakan ESP32 sebagai mikrokontroler utama, dilengkapi sensor DHT11 (suhu & kelembapan), sensor gas MQ-2, dan 4 buah LED (3 LED pribadi + 1 LED Utama).
 
 Fitur:
-🔐 Role-based access control: Setiap anggota hanya bisa mengontrol LED miliknya dan LED Utama
-🚨 Auto-warning system: Notifikasi otomatis ke telegram saat terdeteksi kebocoran gas
-🌡️ Real-time monitoring: Cek suhu & kelembapan kapan saja via Telegram
-💡 Shared control: LED Utama (Ruang Tamu) dapat dikontrol oleh semua anggota
+a) Role-based access control: Setiap anggota hanya bisa mengontrol LED miliknya dan LED Utama
+b) Auto-warning system: Notifikasi otomatis ke telegram saat terdeteksi kebocoran gas
+c) Real-time monitoring: Cek suhu & kelembapan kapan saja via Telegram
+d) Shared control: LED Utama (Ruang Tamu) dapat dikontrol oleh semua anggota
 
 ## 🧑‍💻 Pembagian Tugas
 1. [2309106023 - Muhammad Guntur Adyatma] → Pemrograman ESP32 pada Arduino IDE
@@ -45,7 +45,8 @@ Fitur:
 
 
 ### Rincian Gambar
-![Board_Schematics](BoardSchematic2.jpg)
+![Board_Schematics](boardSchematic2.jpg)
 
 ## 🖥️ Video Demonstrasi
+https://youtu.be/XDXXI_93h9E
 
