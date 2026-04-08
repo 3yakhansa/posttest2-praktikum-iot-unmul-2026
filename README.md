@@ -1,18 +1,18 @@
 # POST TEST 2 - Smart House IoT System dengan Telegram Bot
 
 ## 👥 ANGGOTA KELOMPOK
-2309106023 - Muhammad Guntur Adyatma
-2409106029 - Ridho Setiawan
-2409106038 - Triya Khairun Nisa
+1. 2309106023 - Muhammad Guntur Adyatma
+2. 2409106029 - Ridho Setiawan
+3. 2409106038 - Triya Khairun Nisa
 
 ## 📖 Deskripsi
 Proyek ini merupakan sistem Smart House berbasis Internet of Things (IoT) yang mengintegrasikan kontrol pencahayaan dan monitoring keamanan melalui Telegram Bot. Sistem menggunakan ESP32 sebagai mikrokontroler utama, dilengkapi sensor DHT11 (suhu & kelembapan), sensor gas MQ-2, dan 4 buah LED (3 LED pribadi + 1 LED Utama).
 
-Fitur:
-a) Role-based access control: Setiap anggota hanya bisa mengontrol LED miliknya dan LED Utama
-b) Auto-warning system: Notifikasi otomatis ke telegram saat terdeteksi kebocoran gas
-c) Real-time monitoring: Cek suhu & kelembapan kapan saja via Telegram
-d) Shared control: LED Utama (Ruang Tamu) dapat dikontrol oleh semua anggota
+**Fitur:**
+- **a) Role-based access control:** Setiap anggota hanya bisa mengontrol LED miliknya dan LED Utama
+- **b) Auto-warning system:** Notifikasi otomatis ke Telegram saat terdeteksi kebocoran gas
+- **c) Real-time monitoring:** Cek suhu & kelembapan kapan saja via Telegram
+- **d) Shared control:** LED Utama (Ruang Tamu) dapat dikontrol oleh semua anggota
 
 ## 🧑‍💻 Pembagian Tugas
 1. [2309106023 - Muhammad Guntur Adyatma] → Pemrograman ESP32 pada Arduino IDE
