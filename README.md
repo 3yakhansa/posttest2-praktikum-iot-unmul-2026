@@ -6,7 +6,7 @@
 3. 2409106038 - Triya Khairun Nisa
 
 ## 📖 Deskripsi
-Proyek ini merupakan sistem Smart House berbasis Internet of Things (IoT) yang mengintegrasikan kontrol pencahayaan dan monitoring keamanan melalui Telegram Bot. Sistem menggunakan ESP32 sebagai mikrokontroler utama, dilengkapi sensor DHT11 (suhu & kelembapan), sensor gas MQ-2, dan 4 buah LED (3 LED pribadi + 1 LED Utama).
+Proyek ini merupakan sistem Smart House berbasis Internet of Things (IoT) yang mengintegrasikan kontrol pencahayaan dan monitoring keamanan melalui Telegram Bot. Sistem menggunakan ESP32 sebagai mikrokontroler utama, dilengkapi sensor DHT22 (suhu & kelembapan), sensor gas MQ-2, dan 4 buah LED (3 LED pribadi + 1 LED Utama).
 
 **Fitur:**
 - **a) Role-based access control:** Setiap anggota hanya bisa mengontrol LED miliknya dan LED Utama
@@ -22,7 +22,7 @@ Proyek ini merupakan sistem Smart House berbasis Internet of Things (IoT) yang m
 ## 🧰 Komponen yang Digunakan
 1. ESP32 C3 Supermini
 2. Sensor Gas MQ-2
-3. Sensor Suhu & Kelembapan DHT11
+3. Sensor Suhu & Kelembapan DHT22
 4. 4 buah LED 
 5. Breadboard
 6. Kabel jumper
