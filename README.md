@@ -45,7 +45,7 @@ Proyek ini merupakan sistem Smart House berbasis Internet of Things (IoT) yang m
 
 
 ### Rincian Gambar
-![Board_Schematics](boardSchematic2.jpg)
+![Board_Schematics](boardSchematicPT2.jpeg)
 
 ## 🖥️ Video Demonstrasi
 https://youtu.be/XDXXI_93h9E
